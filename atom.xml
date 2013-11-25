@@ -4,13 +4,31 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://JMF2012.github.io/atom.xml" rel="self"/>
   <link href="http://JMF2012.github.io/"/>
-  <updated>2013-11-19T21:59:52-05:00</updated>
+  <updated>2013-11-25T12:06:12-05:00</updated>
   <id>http://JMF2012.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[JM Freuler]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My First Blog Post]]></title>
+    <link href="http://JMF2012.github.io/blog/2013/11/25/my-first-blog-post/"/>
+    <updated>2013-11-25T11:53:58-05:00</updated>
+    <id>http://JMF2012.github.io/blog/2013/11/25/my-first-blog-post</id>
+    <content type="html"><![CDATA[<p>Hello, this is my first blog post. What do you think?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My First Blog Post]]></title>
+    <link href="http://JMF2012.github.io/blog/2013/11/20/my-first-blog-post/"/>
+    <updated>2013-11-20T17:40:23-05:00</updated>
+    <id>http://JMF2012.github.io/blog/2013/11/20/my-first-blog-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
