@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://JMF2012.github.io/atom.xml" rel="self"/>
   <link href="http://JMF2012.github.io/"/>
-  <updated>2013-11-25T12:06:12-05:00</updated>
+  <updated>2013-11-26T21:48:15-05:00</updated>
   <id>http://JMF2012.github.io/</id>
   <author>
     <name><![CDATA[JM Freuler]]></name>
@@ -27,7 +27,9 @@
     <link href="http://JMF2012.github.io/blog/2013/11/20/my-first-blog-post/"/>
     <updated>2013-11-20T17:40:23-05:00</updated>
     <id>http://JMF2012.github.io/blog/2013/11/20/my-first-blog-post</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Hi there, this is my first blog post.</p>
+
+<p>Learning a lot and having a great time!</p>
 ]]></content>
   </entry>
   
